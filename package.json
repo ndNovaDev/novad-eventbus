@@ -1,14 +1,21 @@
 {
   "name": "novad-eventbus",
   "version": "1.0.0",
-  "description": "",
+  "description": "🚌",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndNovaDev/novad-eventbus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ndNovaDev/novad-eventbus/issues"
+  },
+  "homepage": "https://github.com/ndNovaDev/novad-eventbus#readme",
+  "author": "novadev",
+  "license": "MIT",
   "devDependencies": {
     "mocha": "^5.2.0"
   }
